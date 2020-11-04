@@ -1,3 +1,3 @@
-# docker-vault-cli
+# vault-cli-dev
 
-Docker image for [vault-cli](https://github.com/peopledoc/vault-cli/)
+Docker image for CI & dev env of [vault-cli](https://github.com/peopledoc/vault-cli/)
